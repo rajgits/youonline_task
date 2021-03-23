@@ -1,8 +1,8 @@
 # youonline_task
 Task to make basic AUTH API for Youonline
 
-Clone the repository
-Set up database credentials in .env file
-Run composer update
-Run php artisan migrate to migrate the database
-Run php artisan passport:install
+<strong>Clone the repository</strong><br>
+Set up database credentials in .env file<br>
+Run composer update <br>
+Run php artisan migrate to migrate the database <br>
+Run php artisan passport:install <br>
